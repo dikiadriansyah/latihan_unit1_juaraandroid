@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">latihan6_juaraandroid</string>
+    <string name="kiri_atas">Text composable</string>
+    <string name="kiri_atas_dua">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="kanan_atas">Image composable</string>
+    <string name="kanan_atas_dua">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="kanan_bawah">Row composable</string>
+    <string name="kanan_bawah_dua">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="kiri_bawah">Column composable</string>
+    <string name="kiri_bawah_dua">A layout composable that places its children in a vertical sequence.</string>
+</resources>
